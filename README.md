@@ -3,13 +3,11 @@
 <h1 align="center">Hi 👋, I'm Vinay Chauhan</h1>
 <h3 align="center">A passionate Web developer from Noida.I'm currently doing my B.Tech in Computer Science & Engineering with specialization in Artificial Intelligence and Machine learning.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinaychauhan123" alt="vinaychauhan123" /></a> </p>
-
 - 🔭 I’m currently working on learning **new technologies.**
 
 - 👯 Also working on **Web development Projects**
 
-- 💬 Ask me about **C,C++,DSA,SQL,Python,OS,DBMS,CN,Web development...etc**
+- 💬 Ask me about **C , C++ , DSA , SQL , Python , OS , DBMS , CN , Web development...etc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
